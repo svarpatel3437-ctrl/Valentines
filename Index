@@ -277,7 +277,7 @@
         <p>Every moment with you is a treasure.</p>
         <div class="gallery-grid">
             <!-- Replace these sources with your actual image URLs -->
-            <div class="photo-card"><img src="https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400"
+            <div class="photo-card"><img src="IMG_6661.JPEG"
                     alt="Memory 1"></div>
             <div class="photo-card"><img src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=400"
                     alt="Memory 2"></div>
